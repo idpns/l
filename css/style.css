@@ -45,14 +45,14 @@ transition:0.3s;
 }
 
 h1 {
+backgroud:#eee;
 font-size:25px;
 color:#fff;
 text-transform:uppercase;
 margin-bottom:15px;
-border: 1px dashed #999;
 width:600px;
-border-radius:15px;
-padding:9px 4px 9px 4px;
+border-radius:11px;
+padding:4px;
 }
 
 h3 {
